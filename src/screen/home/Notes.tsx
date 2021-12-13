@@ -133,9 +133,9 @@ const NoteScreen = (props: any) => {
           style={[styles.richBar]}
           editor={RichText}
           disabled={false}
-          iconTint={'purple'}
-          selectedIconTint={'pink'}
-          disabledIconTint={'purple'}
+          iconTint={'#f7b62e'}
+          selectedIconTint={'#6fc1b8'}
+          disabledIconTint={'#dedede'}
           onPressAddImage={onPressAddImage}
           iconSize={30}
           actions={[

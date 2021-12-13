@@ -19,6 +19,6 @@ const styles = StyleSheet.create({
     width: 50,
     height: 50,
     borderRadius: 25,
-    backgroundColor: 'tomato',
+    backgroundColor: '#6fc1b8',
   },
 });
