@@ -1,0 +1,17 @@
+export default {
+  theme: '#2b84d3',
+  theme1: '#edb911',
+  darkBlue: '#082254',
+  errorData: '#f00',
+  borderLightColor: '#EAECEF',
+  borderDarkColor: '#9D9D9D',
+  lightGrey: '#DCD8D8',
+  bgColor: '#F7F8FA',
+  grey: '#504E4E',
+  fontGrey: '#707070',
+  textGrey: '#979797',
+  colorWhite: '#FFFFFF',
+  darkGrey: '#695959',
+  black: 'black',
+  white: 'white',
+};
